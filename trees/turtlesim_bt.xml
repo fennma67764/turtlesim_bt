@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<root main_tree_to_execute="BehaviorTree">
+    <!-- ////////// -->
+    <BehaviorTree ID="BehaviorTree">
+        <Repeat num_cycles="-1">
+            <ForceSuccess>
+                <Sequence>
+                    <Action ID="Turtle" direction="1" distance="2" enable="1" vel_x="2" vel_y="0"/>
+                    <Action ID="Turtle" direction="1" distance="2" enable="1" vel_x="0" vel_y="2"/>
+                    <Action ID="Turtle" direction="0" distance="2" enable="1" vel_x="2" vel_y="0"/>
+                    <Action ID="Turtle" direction="0" distance="2" enable="1" vel_x="0" vel_y="2"/>
+                </Sequence>
+            </ForceSuccess>
+        </Repeat>
+    </BehaviorTree>
+    <!-- ////////// -->
+    <TreeNodesModel>
+        <Action ID="Turtle">
+            <input_port default="1" name="direction">1 = forward / left 0; = backward / right</input_port>
+            <input_port default="0" name="distance"/>
+            <input_port default="1" name="enable">Enables Movement</input_port>
+            <input_port default="0" name="vel_x"/>
+            <input_port default="0" name="vel_y"/>
+        </Action>
+    </TreeNodesModel>
+    <!-- ////////// -->
+</root>
+

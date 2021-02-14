@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root main_tree_to_execute="BehaviorTree">
+    <!-- ////////// -->
+    <BehaviorTree ID="BehaviorTree">
+        <Repeat num_cycles="-1">
+            <ForceSuccess>
+                <Sequence>
+                    <Action ID="Turtle" enable="1"/>
+                    <Action ID="Turtle" enable="2"/>
+                    <Action ID="Turtle" enable="3"/>
+                    <Action ID="Turtle" enable="4"/>
+                    <Delay delay_msec="2000">
+                        <AlwaysSuccess/>
+                    </Delay>
+                </Sequence>
+            </ForceSuccess>
+        </Repeat>
+    </BehaviorTree>
+    <!-- ////////// -->
+    <TreeNodesModel>
+        <Action ID="Turtle">
+            <input_port default="1" name="enable">Enables Beep</input_port>
+        </Action>
+    </TreeNodesModel>
+    <!-- ////////// -->
+</root>
+

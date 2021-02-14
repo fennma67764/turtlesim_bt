@@ -1,0 +1,362 @@
+[
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/loggers/bt_zmq_publisher.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_zmq_publisher.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_zmq_publisher.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/action_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/action_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/action_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/basic_types.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/basic_types.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/basic_types.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/behavior_tree.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/behavior_tree.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/behavior_tree.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/blackboard.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/blackboard.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/blackboard.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/bt_factory.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/bt_factory.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/bt_factory.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorator_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorator_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorator_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/condition_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/condition_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/condition_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/control_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/control_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/control_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/shared_library.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/shared_library.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/shared_library.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/tree_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/tree_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/tree_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/xml_parsing.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/xml_parsing.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/xml_parsing.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorators/inverter_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/inverter_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/inverter_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorators/repeat_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/repeat_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/repeat_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorators/retry_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/retry_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/retry_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorators/subtree_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/subtree_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/subtree_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/decorators/delay_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/delay_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/decorators/delay_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/if_then_else_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/if_then_else_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/if_then_else_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/fallback_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/fallback_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/fallback_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/parallel_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/parallel_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/parallel_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/reactive_sequence.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/reactive_sequence.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/reactive_sequence.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/reactive_fallback.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/reactive_fallback.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/reactive_fallback.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/sequence_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/sequence_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/sequence_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/sequence_star_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/sequence_star_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/sequence_star_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/switch_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/switch_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/switch_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/while_do_else_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/while_do_else_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/while_do_else_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/loggers/bt_cout_logger.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_cout_logger.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_cout_logger.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/loggers/bt_file_logger.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_file_logger.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_file_logger.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/loggers/bt_minitrace_logger.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_minitrace_logger.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/loggers/bt_minitrace_logger.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/private/tinyxml2.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/private/tinyxml2.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/private/tinyxml2.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/3rdparty/minitrace/minitrace.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty/minitrace/minitrace.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty/minitrace/minitrace.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/controls/manual_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/manual_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/controls/manual_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dbehaviortree_cpp_v3_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -Wall -Wextra -Werror=return-type -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3.dir/src/shared_library_UNIX.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/src/shared_library_UNIX.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/src/shared_library_UNIX.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/src/action_test_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/src/action_test_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/src/action_test_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/src/condition_test_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/src/condition_test_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/src/condition_test_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_tree.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_tree.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_tree.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_sequence.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_sequence.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_sequence.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_parallel.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_parallel.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_parallel.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_fallback.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_fallback.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_fallback.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_factory.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_factory.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_factory.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_decorator.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_decorator.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_decorator.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_blackboard.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_blackboard.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_blackboard.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_ports.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_ports.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_ports.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/navigation_test.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/navigation_test.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/navigation_test.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_subtree.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_subtree.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_subtree.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_switch.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_switch.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_switch.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tests",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/behaviortree_cpp_v3_test.dir/gtest_coroutines.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_coroutines.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tests/gtest_coroutines.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tools",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/bt3_recorder.dir/bt_recorder.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_recorder.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_recorder.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tools",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/bt3_log_cat.dir/bt_log_cat.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_log_cat.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_log_cat.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/tools",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/bt3_plugin_manifest.dir/bt_plugin_manifest.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_plugin_manifest.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/tools/bt_plugin_manifest.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DBT_PLUGIN_EXPORT -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dcrossdoor_nodes_dyn_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/crossdoor_nodes_dyn.dir/crossdoor_nodes.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/crossdoor_nodes.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/crossdoor_nodes.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DBT_PLUGIN_EXPORT -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Ddummy_nodes_dyn_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/dummy_nodes_dyn.dir/dummy_nodes.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/dummy_nodes.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/dummy_nodes.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DBT_PLUGIN_EXPORT -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -Dmovebase_node_dyn_EXPORTS -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/movebase_node_dyn.dir/movebase_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/movebase_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/movebase_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/bt_sample_nodes.dir/crossdoor_nodes.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/crossdoor_nodes.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/crossdoor_nodes.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/bt_sample_nodes.dir/dummy_nodes.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/dummy_nodes.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/dummy_nodes.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/sample_nodes",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/../include -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIC   -std=gnu++14 -o CMakeFiles/bt_sample_nodes.dir/movebase_node.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/movebase_node.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/sample_nodes/movebase_node.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t07_wrap_legacy.dir/t07_wrap_legacy.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t07_wrap_legacy.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t07_wrap_legacy.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t04_reactive_sequence.dir/t04_reactive_sequence.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t04_reactive_sequence.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t04_reactive_sequence.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DMANUAL_STATIC_LINKING -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t01_first_tree_static.dir/t01_build_your_first_tree.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t01_build_your_first_tree.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t01_build_your_first_tree.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t03_generic_ports.dir/t03_generic_ports.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t03_generic_ports.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t03_generic_ports.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t01_first_tree_dynamic.dir/t01_build_your_first_tree.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t01_build_your_first_tree.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t01_build_your_first_tree.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t12_ncurses_manual_selector.dir/t12_ncurses_manual_selector.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t12_ncurses_manual_selector.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t12_ncurses_manual_selector.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t05_cross_door.dir/t05_crossdoor.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t05_crossdoor.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t05_crossdoor.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t08_additional_node_args.dir/t08_additional_node_args.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t08_additional_node_args.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t08_additional_node_args.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t09_async_actions_coroutines.dir/t09_async_actions_coroutines.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t09_async_actions_coroutines.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t09_async_actions_coroutines.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t02_basic_ports.dir/t02_basic_ports.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t02_basic_ports.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t02_basic_ports.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t06_subtree_port_remapping.dir/t06_subtree_port_remapping.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t06_subtree_port_remapping.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t06_subtree_port_remapping.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t11_runtime_ports.dir/t11_runtime_ports.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t11_runtime_ports.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t11_runtime_ports.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/behaviortree_cpp_v3/examples",
+  "command": "/usr/bin/c++  -DBT_BOOST_COROUTINE2 -DNCURSES_FOUND -DROS_BUILD_SHARED_LIBS=1 -DUSING_ROS -DZMQ_FOUND -I/home/markus/py2_ws/src/BehaviorTree.CPP/examples/../sample_nodes -I/home/markus/py2_ws/src/BehaviorTree.CPP/3rdparty -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include  -fPIE   -std=gnu++14 -o CMakeFiles/t10_include_trees.dir/t10_include_trees.cpp.o -c /home/markus/py2_ws/src/BehaviorTree.CPP/examples/t10_include_trees.cpp",
+  "file": "/home/markus/py2_ws/src/BehaviorTree.CPP/examples/t10_include_trees.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/turtlesim_bt",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turtlesim_bt\\\" -I/home/markus/py2_ws/src/turtlesim_bt/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/turtlesim_bt_node.dir/src/Turtle.cpp.o -c /home/markus/py2_ws/src/turtlesim_bt/src/Turtle.cpp",
+  "file": "/home/markus/py2_ws/src/turtlesim_bt/src/Turtle.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/turtlesim_bt",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turtlesim_bt\\\" -I/home/markus/py2_ws/src/turtlesim_bt/include -I/home/markus/py2_ws/src/BehaviorTree.CPP/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/turtlesim_bt_node.dir/src/turtlesim_bt.cpp.o -c /home/markus/py2_ws/src/turtlesim_bt/src/turtlesim_bt.cpp",
+  "file": "/home/markus/py2_ws/src/turtlesim_bt/src/turtlesim_bt.cpp"
+},
+{
+  "directory": "/home/markus/py2_ws/build/turtlesim_bt/gtest/googlemock/gtest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]
